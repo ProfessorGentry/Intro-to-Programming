@@ -1,3 +1,3 @@
 # Intro-to-Programming (CIS 126)
 
-Week 3 Code
+## Week 3 Code
