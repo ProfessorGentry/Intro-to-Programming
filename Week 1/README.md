@@ -7,7 +7,7 @@ Code based on our textbook "C How to Program, Ninth Edition" published in 2021.
 If you have any questions, send email to jgentry@ecpi.edu
 
 ## This week's Examples
-Example 1: fig02_01.c A first program in C
+Example 1: fig02_01.c[Week 1/fig02_01.c] A first program in C
 
 Example 2: fig02_02.c Using printf to print a line
 
