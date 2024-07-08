@@ -8,5 +8,7 @@ If you have any questions, send email to jgentry@ecpi.edu
 
 ## This week's Examples
 Example 1: 
+
 Example 2: 
+
 Example 3:
