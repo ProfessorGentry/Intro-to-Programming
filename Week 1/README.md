@@ -7,7 +7,7 @@ Code based on our textbook "C How to Program, Ninth Edition" published in 2021.
 If you have any questions, send email to jgentry@ecpi.edu
 
 ## This week's Examples
-Example 1: [fig02_01.c] (https://github.com/ProfessorGentry/Intro-to-Programming/Week 1/fig02_01.c) A first program in C
+Example 1: [fig02_01.c] (https://github.com/ProfessorGentry/Intro-to-Programming/blob/68a2fbc40d3d52e1970fc67d6f25b9d72d60d902/Week%201/fig02_01.c) A first program in C
 
 Example 2: fig02_02.c Using printf to print a line
 
